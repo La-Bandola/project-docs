@@ -34,7 +34,7 @@
 
 - Debo mejorar mi conocimiento en lenguajes como C++ y Rust y la implementación de conceptos como estructuras de datos y el uso de algoritmos en los programas que diseño.
 
-## DANIEL FELIPE OREJUELA GUZMAN
+## DANIEL FELIPE OREJUELA GUZMAN:
 
 - Dentro de un equipo de desarrollo de software me gustaría desempeñar un rol enfocado en el desarrollo fullstack, trabajando tanto en el backend como en el frontend. Me interesa crear la lógica del servidor, gestionar bases de datos y servidores, así como desarrollar interfaces visuales funcionales y corregir errores del sistema.
 
@@ -46,22 +46,22 @@
 
 ## PREGUNTA 2:
 
-# Utilizacion del tablero
+### Utilizacion del tablero
 
 Vamos a utilizar un tablero Kanban con columnas para backlog, pending, in progress, revision, finished. Para cada tarea hay un responsable y una descripción.
 
-# Tiempos y reuniones
+### Tiempos y reuniones
 
-Se va a trabajar en sprints de dos semanas. Habran reuniones la principio de cada sprint, ademas de semanales para seguimiento y reuniones cortas por lo menos dos veces a la semana cuando consideremos necesario. Por ultimo una reunion al final de cada sprint para hacer retroalimentacion y retrospectiva.
+Se va a trabajar en sprints de dos semanas. Habrán reuniones al principio de cada sprint, ademas de semanales para seguimiento y reuniones cortas por lo menos dos veces a la semana cuando consideremos necesario. Por último una reunión al final de cada sprint para hacer retroalimentación y retrospectiva.
 
-# Uso de Git y GitHub
+### Uso de Git y GitHub
 
-En cuanto al uso de Git y GitHub, consideramos necesario que se haga minimo una revision antes de hacer cada merge, hacer los commits claros, actualizar als ramas antes de subir cambios y no realizar cambios directos en la rama main.
+En cuanto al uso de Git y GitHub, se considera necesario que se haga mínimo una revision antes de hacer cada merge, hacer los commits claros, actualizar als ramas antes de subir cambios y en lo posible, no realizar cambios directos en la rama main.
 
-# Comunicación
+### Comunicación
 
-Avisar con un dia de anticipación siempre que no se pueda finalizar una tarea a tiempo, informar si tiene algun tema que le impida avanzar en las tareas para poder redistribuir trabajos.
+Avisar con un día de anticipación siempre que no se pueda finalizar una tarea a tiempo, informar si tiene algun tema que le impida avanzar en las tareas para poder redistribuir trabajos. Mantener las tareas y responsabilidades de cada integrante claras.
 
-# Toma de decisiones
+### Toma de decisiones
 
-Para decisiones pequeñas se tomara por consenso, para desiciones mayores se hara una discusion en reunion con todos los integrantes y si no se llega a acuerdo se realizara por votacion. Por ultimo quedara constancia de las desiciones tomadas en documentacion.
+Para decisiones pequeñas se tomara por consenso, para desiciones mayores se hara una discusion en reunion con todos los integrantes y si no se llega a acuerdo se realizara por votación. Por ultimo quedará constancia de las desiciones tomadas en documentacion.
