@@ -52,11 +52,11 @@ Vamos a utilizar un tablero Kanban con columnas para backlog, pending, in progre
 
 # Tiempos y reuniones
 
-Se va a trabajar en sprints de dos semanas. Habran reuniones la principio de cada sprint, ademas de semanales para seguimiento y reuniones cortas por lo menos dos veces a la semana cuando se considere necesario. Por ultimo una reunion al final de cada sprint para hacer retroalimentacion y retrospectiva.
+Se va a trabajar en sprints de dos semanas. Habran reuniones la principio de cada sprint, ademas de semanales para seguimiento y reuniones cortas por lo menos dos veces a la semana cuando consideremos necesario. Por ultimo una reunion al final de cada sprint para hacer retroalimentacion y retrospectiva.
 
 # Uso de Git y GitHub
 
-En cuanto al uso de Git y GitHub, se considera necesario que se haga minimo una revision antes de hacer cada merge, hacer los commits claros, actualizar als ramas antes de subir cambios y no realizar cambios directos en la rama main.
+En cuanto al uso de Git y GitHub, consideramos necesario que se haga minimo una revision antes de hacer cada merge, hacer los commits claros, actualizar als ramas antes de subir cambios y no realizar cambios directos en la rama main.
 
 # Comunicación
 
