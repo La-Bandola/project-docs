@@ -6,9 +6,9 @@
 
 - En un equipo de desarrollo de software me gustaría ser la persona que facilita la comunicación entre todas las partes, no solo entre el equipo y el cliente sino también entre los integrantes del equipo. Tener un conocimiento profundo del diseño y funcionalidades del programa para que así las demás personas puedan preguntarme. No ser la persona que da ordenes y asigna tareas pero si ser a quien la gente acude cuando algo sale mal.
 
-- Siento que mis fortalezas son la identificación de fallas no solo del producto sino del ritmo de trabajo y objetivos del proeycto, y también la comunicación clara. Respecto a mis habilidades técnicas conozco bien la sintaxis de lenguajes de programación como Java y entiendo de cuando es importante hacer cambios y optimizaciones al codigo, y cuando es preferible dejar las cosas como están.
+- Siento que mis fortalezas son la identificación de fallas no solo del producto sino del ritmo de trabajo y objetivos del proyecto, y también la comunicación clara. Respecto a mis habilidades técnicas conozco bien la sintaxis de lenguajes de programación como Java y entiendo de cuando es importante hacer cambios y optimizaciones al codigo, y cuando es preferible dejar las cosas como están.
 
-- Como todos tengo muchas cosas por mejorar y aprender, pero las que más destacaría son el orden, y la refinación de mis habilidades técnicas a través del desarrollo de proyectos personales y colectivos.
+- Como todos tengo muchas cosas por mejorar y aprender, pero las que más destacaría son el orden, y la refinación de mis habilidades técnicas a través del desarrollo de proyectos personales y colectivos. Me falta mucha experiencia en desarrollo y gestión de proyectos, a pesar de que tenga apropiados conocimientos teóricos de programación
 
 ### SAMUEL MEJÍA ORTIZ:
 
@@ -41,7 +41,27 @@
 - Considero que puedo aportar al equipo con mis habilidades en programación, diseño de interfaces y manejo de bases de datos. Además, tengo buen trabajo en equipo, buena comunicación, disposición para colaborar y adaptarme a diferentes tareas según las necesidades del proyecto.
 
 - En cuanto a los aspectos por mejorar, debo fortalecer el manejo del tiempo y profundizar en conocimientos de seguridad del software para garantizar aplicaciones más seguras y confiables.
+
 ---
 
 ## PREGUNTA 2:
 
+# Utilizacion del tablero
+
+Vamos a utilizar un tablero Kanban con columnas para backlog, pending, in progress, revision, finished. Para cada tarea hay un responsable y una descripción.
+
+# Tiempos y reuniones
+
+Se va a trabajar en sprints de dos semanas. Habran reuniones la principio de cada sprint, ademas de semanales para seguimiento y reuniones cortas por lo menos dos veces a la semana cuando consideremos necesario. Por ultimo una reunion al final de cada sprint para hacer retroalimentacion y retrospectiva.
+
+# Uso de Git y GitHub
+
+En cuanto al uso de Git y GitHub, consideramos necesario que se haga minimo una revision antes de hacer cada merge, hacer los commits claros, actualizar als ramas antes de subir cambios y no realizar cambios directos en la rama main.
+
+# Comunicación
+
+Avisar con un dia de anticipación siempre que no se pueda finalizar una tarea a tiempo, informar si tiene algun tema que le impida avanzar en las tareas para poder redistribuir trabajos.
+
+# Toma de decisiones
+
+Para decisiones pequeñas se tomara por consenso, para desiciones mayores se hara una discusion en reunion con todos los integrantes y si no se llega a acuerdo se realizara por votacion. Por ultimo quedara constancia de las desiciones tomadas en documentacion.
