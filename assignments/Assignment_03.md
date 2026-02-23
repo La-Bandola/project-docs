@@ -1,6 +1,6 @@
 ### Assignment_03
 
-##PREGUNTA 1:
+## PREGUNTA 1:
 
 # OMAR ALEJANDRO BLANCO PINEDA:
 
@@ -32,6 +32,6 @@ Debo mejorar mi conocimiento en lenguajes como C++ y Rust y la implementación d
 
 ---
 
-##PREGUNTA 2:
+## PREGUNTA 2:
 
 
